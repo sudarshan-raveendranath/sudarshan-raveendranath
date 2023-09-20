@@ -141,12 +141,7 @@
 
 <h1 align="left"></h1>
 
-###
 
-<img src="https://raw.githubusercontent.com/sudarshan-raveendranath/sudarshan-raveendranath/output/snake.svg" alt="Snake animation" />
 
-###
-
-<h1 align="left"></h1>
 
 
