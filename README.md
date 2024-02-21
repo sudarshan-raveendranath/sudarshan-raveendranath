@@ -36,6 +36,7 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/sudarshan-raveendranath/count.svg?"  />
+  <img src="https://komarev.com/ghpvc/?username=xxx&label=Profile%20views&color=0e75b6&style=flat" alt="xxx" />
 </div>
 
 ###
@@ -111,6 +112,10 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
 </div>
+
+###
+
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xxx" alt="xxx" /></a> </p>
 
 ###
 
