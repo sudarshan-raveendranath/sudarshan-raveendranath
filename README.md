@@ -48,7 +48,7 @@
 
 ###
 
-<p align="left">I'm Sudarshan Raveendranath from Sri Lanka<br><br>- 📚 I'm currently learning Java, Spring, Angular, React, C, C++, Kotlin, Firebase andAI<br>- ⚡ In my free time I study about spring framework and angular</p>
+<p align="left">I'm Sudarshan Raveendranath from Sri Lanka<br><br>- 📚 I'm currently learning Java, Spring, Angular, React, C, C++, Kotlin, Firebase and AI<br>- ⚡ In my free time I study about spring framework and angular</p>
 
 ###
 
