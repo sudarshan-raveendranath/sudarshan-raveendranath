@@ -31,7 +31,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/sudarshan-raveendranath/count.svg?"  />
+  <img src="https://profile-counter.glitch.me/sudarshan-raveendranath/count.svg?"  /><br>
   <img src="https://komarev.com/ghpvc/?username=xxx&label=Profile%20views&color=0e75b6&style=flat" alt="xxx" />
 </div>
 
@@ -49,7 +49,7 @@
   - 📚 I'm currently learning Java, Spring, Angular, React, C, C++, Kotlin, Firebase and AI<br>
   - ⚡ In my free time I study about spring framework and angular<br>
   - 👨‍💻 All of my projects are available at [portfoliolink example](portfoliolink example)<br>
-  - 💬 Ask me about **spring,angular**
+  - 💬 Ask me about **spring,angular**<br>
   - 📄 Know about my experiences [xxx](resumelink example)
 </p>
 
