@@ -55,7 +55,7 @@
   - 📚 I'm currently learning Java, Spring, Angular, React, C, C++, Kotlin, Firebase and AI<br>
   - ⚡ In my free time I study about spring framework and angular<br>
   - 👨‍💻 All of my projects are available at [portfoliolink example](portfoliolink example)<br>
-  - 💬 Ask me about **Apring** **,** **Angular** **Java** <br>
+  - 💬 Ask me about **Spring , Angular , Java**<br>
   - 📄 Know about my experiences [xxx](resumelink example)
 </p>
 
