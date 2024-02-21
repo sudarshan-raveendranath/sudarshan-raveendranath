@@ -11,15 +11,6 @@
   <a href="https://twitter.com/SudarshanRav" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="44" height="27" alt="twitter logo"  />
   </a>
-  <a href="https://stackoverflow.com/users/xxx" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="xxx" height="30" width="40" />
-  </a>
-  <a href="https://www.hackerrank.com/xxx" target="_blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="xxx" height="30" width="40" />
-  </a>
-<a href="https://www.leetcode.com/xxx" target="_blank">
-  <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="xxx" height="30" width="40" />
-</a>
   <a href="sudarshan27922@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="44" height="27" alt="gmail logo"  />
   </a>
