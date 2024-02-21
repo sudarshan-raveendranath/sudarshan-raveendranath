@@ -32,7 +32,7 @@
 
 <div align="center">
   <img src="https://profile-counter.glitch.me/sudarshan-raveendranath/count.svg?"  /><br>
-  <img src="https://komarev.com/ghpvc/?username=xxx&label=Profile%20views&color=0e75b6&style=flat" alt="xxx" />
+  <img src="https://komarev.com/ghpvc/?username=sudarshan-raveendranath&label=Profile%20views&color=0e75b6&style=flat" alt="sudarshan-raveendranath's profile view counter" />
 </div>
 
 ###
@@ -121,7 +121,7 @@
 
 ###
 
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=xxx" alt="xxx" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sudarshan-raveendranath" alt="sudarshan-raveendranath" /></a> </p>
 
 ###
 
