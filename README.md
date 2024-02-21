@@ -48,7 +48,7 @@
 
 ###
 
-<p align="left">I'm Sudarshan Raveendranath from Sri Lanka<br><br>- 📚 I'm currently learning Java, C, C++, Kotlin, Flutter, Firebase, SQL, AI, Ethical Hacking, Linux<br>- ⚡ In my free time I study kali linux and ethical hacking</p>
+<p align="left">I'm Sudarshan Raveendranath from Sri Lanka<br><br>- 📚 I'm currently learning Java, Spring, Angular, React, C, C++, Kotlin, Firebase andAI<br>- ⚡ In my free time I study about spring framework and angular</p>
 
 ###
 
@@ -61,19 +61,11 @@
 ###
 
 <div align="left">
-  <img src="https://cdn.simpleicons.org/adobeillustrator/FF9A00" height="40" alt="adobeillustrator logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/adobephotoshop/31A8FF" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
   <img src="https://cdn.simpleicons.org/android/3DDC84" height="40" alt="android logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" height="40" alt="androidstudio logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=arduino" height="40" alt="arduino logo"  />
-  <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://cdn.simpleicons.org/canva/00C4CC" height="40" alt="canva logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
   <img width="12" />
@@ -82,8 +74,6 @@
   <img src="https://cdn.simpleicons.org/discord/5865F2" height="40" alt="discord logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=firebase" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=flutter" height="40" alt="flutter logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
   <img width="12" />
@@ -96,8 +86,6 @@
   <img src="https://cdn.simpleicons.org/javascript/F7DF1E" height="40" alt="javascript logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=kotlin" height="40" alt="kotlin logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=linux" height="40" alt="linux logo"  />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
   <img width="12" />
