@@ -5,31 +5,31 @@
 ###
 
 <div align="center">
-  <a href="www.linkedin.com/in/sudarshan-raveendranath" target="_blank">
+  <a href="www.linkedin.com/in/sudarshan-raveendranath" target="blank">
      <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="https://twitter.com/SudarshanRav" target="_blank">
+  <a href="https://twitter.com/SudarshanRav" target="blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitter logo"  />
   </a>
-  <a href="sudarshan27922@gmail.com" target="_blank">
+  <a href="sudarshan27922@gmail.com" target="blank">
    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
   </a>
-  <a href="https://www.instagram.com/sudarshana_raveendranath/" target="_blank">
+  <a href="https://www.instagram.com/sudarshana_raveendranath/" target="blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="https://www.facebook.com/sudarshana.raveendranath" target="_blank">
+  <a href="https://www.facebook.com/sudarshana.raveendranath" target="blank">
     <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="facebook logo"  />
   </a>
-  <a href="https://t.me/Sudarshana_raveendranath" target="_blank">
+  <a href="https://t.me/Sudarshana_raveendranath" target="blank">
     <img src="https://img.shields.io/static/v1?message=Telegram&logo=telegram&label=&color=2CA5E0&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="telegram logo"  />
   </a>
-  <a href="https://wa.me/94764287713" target="_blank">
+  <a href="https://wa.me/94764287713" target="blank">
     < <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo"  />
   </a>
-  <a href="https://stackoverflow.com/users/23458148/sudarshan-raveendranath" target="_blank">
+  <a href="https://stackoverflow.com/users/23458148/sudarshan-raveendranath" target="blank">
     <img src="https://img.shields.io/static/v1?message=Stackoverflow&logo=stackoverflow&label=&color=FE7A16&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="stackoverflow logo"  />
   </a>
-  <a href="https://www.hackerrank.com/profile/sudarshan27922" target="_blank">
+  <a href="https://www.hackerrank.com/profile/sudarshan27922" target="blank">
      <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="hackerrank logo"  />
   </a>
   
