@@ -159,7 +159,7 @@
 ###
 
 <div align="center">
-    <img height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=sudarshan-raveendranath&theme=juicyfresh"/>
+    <img height="300px" src="https://github-readme-activity-graph.vercel.app/graph?username=sudarshan-raveendranath&theme=dark"/>
 </div>
 
 ###
